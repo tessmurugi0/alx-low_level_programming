@@ -1,6 +1,9 @@
 #include "main.h"
 /**
- * print_sign- prints the signs
+ * print_sign returns:
+ * 1 if n is greater than zero
+ * 0 if n is zero
+ * -1 if n is less than zero
  * @n: integer n
  * Returns: 1 if n is greater
  * than zero, 0 if n is zero and -1 if n is less than zero
