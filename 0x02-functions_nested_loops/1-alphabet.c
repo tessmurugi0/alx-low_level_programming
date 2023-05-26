@@ -1,8 +1,14 @@
+/* This program prints the alphabet in lowercase  */
+
 #include <stdio.h>
+
 /**
- * main - prints alphabets in lowercase 
- * using putchar
- * Return: Always 0.
+ * print_alphabet - Prints alphabets in lowercase.
+ *
+ * Description: This function prints the lowercase alphabet from 'a' to 'z'
+ *              using the putchar function.
+ *
+ * Return: void
  */
 void print_alphabet(void)
 {
