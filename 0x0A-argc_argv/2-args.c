@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
  * main - prints all arguments
- * argc - counts arguments
- * argv - arrays of pointers
+ * @argc: counts arguments
+ * @argv: arrays of pointers
+ * Return: Always 0.
  */
 int main(int argc, char **argv)
 {
