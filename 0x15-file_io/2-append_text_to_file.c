@@ -9,3 +9,5 @@
  *         O/w - the actual number of bytes the function can read and print.
  */
 int append_text_to_file(const char *filename, char *text_content)
+{
+
